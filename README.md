@@ -19,14 +19,16 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 
 ## Starship
 
-![Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk.](https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/starship-ift4-wdr.jpg?fit=1200%2C899&ssl=1 "Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk.")
-
+![STARSHIP](https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/starship-ift4-wdr.jpg?fit=1200%2C899&ssl=1)
+Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk.
 ## Saturn V
 
-![Este, embora mais antigo, foi o primeiro foguete tripulado a levar o homem à Lua](https://cdn.firespring.com/images/1342c702-38be-4aaa-89db-5663555b7ff9.jpg "Este, embora mais antigo, foi o primeiro foguete tripulado a levar o homem à Lua")
+![SATURN V](https://cdn.firespring.com/images/1342c702-38be-4aaa-89db-5663555b7ff9.jpg)
+Este, embora mais antigo, foi o primeiro foguete tripulado a levar o homem à Lua.
 
 ## Titan 1
 
-![O primeiro foguete (*míssil*) a atingir os incríveis 5.5km de altitude, em viagem intercontinental.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Titan_1_ICBM.jpg/600px-Titan_1_ICBM.jpg "O primeiro foguete (*míssil*) a atingir os incríveis 5.5km de altitude, em viagem intercontinental.")
+![TITAN 1l.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Titan_1_ICBM.jpg/600px-Titan_1_ICBM.jpg)
+O primeiro foguete (*míssil*) a atingir os incríveis 5.5km de altitude, em viagem intercontinental.
 
 
