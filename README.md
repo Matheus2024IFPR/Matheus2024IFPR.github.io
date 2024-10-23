@@ -14,8 +14,8 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 
 | Foguete | Starship | Saturn V | Titan 1 *(míssil balístico)* |
 |:------------------------:|:------------------------:|:------------------------:|:------------------------:|
-| Primeiro lançamento | 2023 | 1969 | 1959 |
-| Altura total | ≈ 120m | ≈ 110m | ≈ 31m |
+| **Primeiro lançamento** | 2023 | 1969 | 1959 |
+| **Altura total** | ≈ 120m | ≈ 110m | ≈ 31m |
 
 ## Starship
 
