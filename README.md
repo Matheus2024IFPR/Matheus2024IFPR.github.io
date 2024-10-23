@@ -12,10 +12,10 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 1. Primeiramente vamos entender um pouco sobre alguns dos maiores e mais tecnológicos foguetes já construídos!
 * Observe esta tabela e descubra um pouco mais sobre eles:
 
-| Starship | Saturn V | Titan 1 |
-|:------------------------:|:------------------------:|:------------------------:|
-| Primeiro lançamento em 2023 | Primeiro lançamento em 1969 | *Míssil balístico* |
-| ≈ 120m de altura | ≈ 110m de altura | ≈ 31m de altura |
+| Foguete | Starship | Saturn V | Titan 1 |
+|:------------------------:|:------------------------:|:------------------------:|:------------------------:|
+| Primeiro lançamento | 2023 | 1969 | *Míssil balístico* |
+| Altura total | ≈ 120m | ≈ 110m | ≈ 31m |
 
 **Starship**
 
