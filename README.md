@@ -1,9 +1,12 @@
 # **Foguetes**
 
 Olá, Mundo! Meu nome é Matheus Henrique de Almeida Rodrigues!
-> Está pronto para aprender mais sobre engenharia e tecnologia no espaço?
+>*"Foguete não tem ré"*
+Esta famosa e icônica frase ainda é muito utilizada na atualidade, mas você sabia que agora é possível fazer um foguete retornar à Terra com seus próprios motores?
 
-*Vamos para uma viagem ao mundo dos foguetes?*
+Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no espaço?
+
+*Vamos para uma viagem ao mundo dos foguetes:*
 
 1. Primeiramente vamos entender um pouco sobre alguns dos maiores e mais tecnológicos foguetes já construídos!
 * Observe esta tabela e descubra um pouco mais sobre eles:
