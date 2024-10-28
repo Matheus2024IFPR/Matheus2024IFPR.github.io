@@ -23,7 +23,7 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk, podendo ser considerado completamente reutilizável, projetado para viagens espaciais longas, como até outros planetas.
 **Estágios**
 A nave em si é separada do estágio de lançamento, este participa apenas do momento de decolagem do foguete, aquele, por susa vez, viajará pelo espaço estelar.
-Além disso, a espaçonave é capaz de suportar até 150 toneladas métricas como afirma a própria SpaceX.
+Além disso, a espaçonave é capaz de suportar até 150 toneladas métricas totalmente reutizável como afirma a própria SpaceX.
 
 ## Saturn V
 
