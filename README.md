@@ -24,7 +24,7 @@ Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Mu
 * **Estágios**
 A nave em si é separada do estágio de lançamento *(Super Heavy)*, o qual participa apenas do momento de decolagem do foguete, sendo o principal míodulo, sendo responsável pela locomoção espacial.
 * **Payload**
-A espaçonave é capaz de suportar até 150 toneladas métricas totalmente reutizável como afirma a própria SpaceX.
+A espaçonave é capaz de suportar até 150 toneladas métricas totalmente reutizável como afirma a própria SpaceX, sndo capaz de ultrapassar este limite quando em relação a toneladas descartáveis.
 
 ## Saturn V
 
