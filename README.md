@@ -88,15 +88,12 @@ Além disso, possuindo 50m de altura, mesmo sendo mais amplamente utilizada no e
 *Gostou do conteúdo? Quer saber mais sobre o mundo dos foguetes?*
 Aqui estão alguns vídeos que podem lhe interessar, e fazer com que você saiba muito mais sobre os foguetes!  
 
-[![Miniatura do vídeo](![capa](https://github.com/user-attachments/assets/7950741a-427f-4f2c-bc94-8ffaba38e5f7)
-)](https://youtu.be/4T5kkso-s88)
+[![Engenharia Detalhada](![image](https://github.com/user-attachments/assets/b0aa73d0-25f2-42f2-a10b-517a04eaab20)
+)](https://youtu.be/4T5kkso-s88)  
+[![Manual do Mundo](![image](https://github.com/user-attachments/assets/df7c9ab8-788a-45d2-a5cd-503e1edab6a2)
+)](https://youtu.be/mhgtGOcsUqM)  
+[![Integrando Conhecimento](![image](https://github.com/user-attachments/assets/30e3c23b-cf0c-4237-a111-85ee25e50021)
+)](https://youtu.be/TWRUsaOeNig)
 
-![Miniatura do vídeo](![capa](![image](https://github.com/user-attachments/assets/629fbf82-0568-4409-99eb-6acd7882839f)
-)  
 
-https://youtu.be/mhgtGOcsUqM)
 
-![Miniatura do vídeo](![capa](![image](https://github.com/user-attachments/assets/10e58b42-067e-454e-8cf9-27b238f1c00c)
-)  
-
-(https://youtu.be/TWRUsaOeNig)
