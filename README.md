@@ -80,6 +80,7 @@ O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transport
 *Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk, podendo ser considerado completamente reutilizável, projetado para viagens espaciais longas, como a outros planetas.*  
 
 >*"Foguete não tem ré"*
+
 Esta famosa e icônica frase ainda é muito utilizada na atualidade, mas você sabia que com o Starship é possível retornar à Terra com seus próprios motores? E o melhor, reutilizando o foguete, o que é muito mais viável, econômico e sustentável!
 
 
