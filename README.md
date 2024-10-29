@@ -52,6 +52,7 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 
 ![SATURN V](https://cdn.firespring.com/images/1342c702-38be-4aaa-89db-5663555b7ff9.jpg)  
 *Este foguete é da NASA, o qual possibilitou, pela primeira vez na história da humanidade, a chegada do homem em solo lunar.*  
+
 **Papel da espaçonave na história:**  
 
 O foguete foi por muitas décadas considerado o maior já construído pelo homem, embora atualmente não ocupe mais esta posição, exercendo um inquestionável e importante papel na corrida espacial e na consolidação da NASA como a maior empresa do ramo aeroespacial até os dias de hoje, mesmo que na contemporaneidade possa competir com muitas outras empresas, como a SpaceX, de Elon Musk, e a Blue Origin, de Jeff Bezos *(ambas com um grande potencial para a implementação em massa do turismo espacial)*.  
