@@ -15,7 +15,7 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 | Foguete | Starship | Saturn V | Titan 1 *(míssil balístico)* |
 |:------------------------:|:------------------------:|:------------------------:|:------------------------:|
 | **Primeiro lançamento** | 2023 | 1969 | 1959 |
-| **Altura total** | ≈ 120m | ≈ 110m | ≈ 31m |
+| **Altura total** | ≈ 120m | ≈ 111m | ≈ 31m |
 
 ## Starship
 
@@ -26,9 +26,9 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 * **Super Heavy *(primeiro estágio)*:**
   Este é o maior estágio do foguete, possuindo cerca de 70m de altitude, abastecendo os 33 motores principais do foguete e possiblitando, de um modo inovador, sua propulsão.
 Quando falamos sobre combustíveis, é importante ressaltar que os propelentes utilizados pelo Starship são de natureza criogênica *(Oxigênio e metano são mantidos em temperaturas extremamente baixas para se tornarem líquidos, e assim se faz possível o armazenamento adequado)*.
-**Inovação:** O primeiro estágio, além de reutiizável, tem e incrível capacidade de retornar à Terra, pousando no próprio local de lançamento, sendo aprovado em muitos testes de diferentes naturezas pela própria SpaceX.
+  * **Inovação:** O primeiro estágio, além de reutiizável, tem e incrível capacidade de retornar à Terra, pousando no próprio local de lançamento, sendo aprovado em muitos testes de diferentes naturezas pela própria SpaceX.
 * **Starship *(segundo estágio)*:**
-  A nave em si é separada do estágio de lançamento *(Super Heavy)*, o qual participa apenas do momentos iniciais na ddecolagem do foguete, sendo o principal módulo, e responsável pela locomoção espacial.
+  A nave em si é separada do estágio de lançamento *(Super Heavy)*, o qual participa apenas do momentos iniciais na ddecolagem do foguete, sendo o principal módulo, com 6 mototres, e responsável pela locomoção espacial.
 Além disso, possuindo 50m de altura, mesmo sendo mais amplamente utilizada no espaço sideral, a Starship é capaz de transportar carga útil entre dois pontos ao redor do planeta Terra, sem necessariamente viajar à missões interplanetárias, mostrando sua ampla e eficaz capacidade de utilização e reutilização.
 * **Payload:**
   A espaçonave é capaz de suportar até 150 toneladas métricas totalmente reutizável como afirma a própria SpaceX, sendo capaz de ultrapassar em até 100 toneladas este limite quando em relação a cargas descartáveis.
@@ -39,7 +39,17 @@ Além disso, possuindo 50m de altura, mesmo sendo mais amplamente utilizada no e
 *Este foguete é da NASA, o qual possibilitou, pela primeira vez na história da humanidade, a chegada do homem em solo lunar.*  
 **Papel da espaçonave na história:**
 O foguete foi por muitas décadas considerado o maior já construído pelo homem, embora atualmente não ocupe mais esta posição, exercendo um inquestionável e importante papel na corrida espacial e na consolidação da NASA como a maior empresa do ramo aeroespacial até os dias de hoje, mesmo que na contemporaneidade possa competir com muitas outras empresas, como a SpaceX, de Elon Musk, e a Blue Origin, de Jeff Bezos *(ambas com um grande potencial para a implementação em massa do turismo espacial)*.
-
+**Estágios do foguete:**  
+O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transportou os astronautas Neil Armstrong, Michael Collins e Edwin Buzz Aldrin à Lua *e/ou* à sua órbita, são eles:
+* **S-IC *(primeiro estágio)*:**
+  Este possui 5 motores (F-1), responsáveis pelo empuxo inicial do foguete, o qual o faz atingir 68km de altitude, outrossim, tem dois tipos de propelentes necessários à queima e propulsão *(oxigênio líquido e querosene refinado)* ambos líquidos.
+  Quando em relação ao tamanho, o primeiro estágio detinha 42m dos 111m de altura total do foguete, exercendo sua função por pouco menos de 3 minutos.
+* **S-II *(segundo estágio)*:**
+  Impulsionando novamente o foguete após à separação do primeiro estágio, com seus aproximados 25m, o S-II era capaz de conduzir o foguete a uma altura de 185km na atmosfera, contando, de semelhante modo ao primeiro estágio, com 5 motores (J-2), embora com menor empuxo.
+  Os propelentes deste estágio eram hidrogênio e oxigênio, ambos em seu estado líquido, exercendo seus papéis durante cerca de 6 minutos, fazendo com que o foguete pudesse finalmente atingir o espaço sideral.
+* **S-IVB *(terceiro estágio)*:**
+  A fração do foguete correspondente ao terceiro estágio é que o colocava na órbita terrestre, e posteriormente, o dirigia à Lua, realizando a *"injeção translunar"*, possuindo quase 18m de altura.
+  Com relação a comburentes, estes eram os mesmos do segundo estágio *(oxigênio e hidrogênio líquidos)*, com um tempo de queima indefinido, visto que não impulsionava o foguete de modo contínuo, para que não houvesse dificuldade no trajeto à Lua. 
 
 ## Titan 1
 
