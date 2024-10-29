@@ -110,3 +110,5 @@ Aqui estão alguns vídeos que podem lhe interessar, e fazer com que você saiba
 
 [![Integrando Conhecimento](https://github.com/user-attachments/assets/30e3c23b-cf0c-4237-a111-85ee25e50021)](https://youtu.be/TWRUsaOeNig)  
 *Canal: Integrando Conhecimento*
+
+*por: Matheus Henrique de Almeida Rodrigues*
