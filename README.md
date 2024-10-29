@@ -91,12 +91,12 @@ Aqui estão alguns vídeos que podem lhe interessar, e fazer com que você saiba
 [![Miniatura do vídeo](![capa](https://github.com/user-attachments/assets/7950741a-427f-4f2c-bc94-8ffaba38e5f7)
 )](https://youtu.be/4T5kkso-s88)
 
-[![Miniatura do vídeo](![capa](![image](https://github.com/user-attachments/assets/629fbf82-0568-4409-99eb-6acd7882839f)
+![Miniatura do vídeo](![capa](![image](https://github.com/user-attachments/assets/629fbf82-0568-4409-99eb-6acd7882839f)
 )  
 
-)](https://youtu.be/mhgtGOcsUqM)
+https://youtu.be/mhgtGOcsUqM)
 
-[![Miniatura do vídeo](![capa](![image](https://github.com/user-attachments/assets/10e58b42-067e-454e-8cf9-27b238f1c00c)
+![Miniatura do vídeo](![capa](![image](https://github.com/user-attachments/assets/10e58b42-067e-454e-8cf9-27b238f1c00c)
 )  
 
-)](https://youtu.be/TWRUsaOeNig)
+(https://youtu.be/TWRUsaOeNig)
