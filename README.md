@@ -1,15 +1,16 @@
 # **Foguetes**
 
-Olá, Mundo! Meu nome é Matheus Henrique de Almeida Rodrigues!
->*"Foguete não tem ré"*
+Olá, Mundo! Meu nome é Matheus Henrique de Almeida Rodrigues!  
+
+>*"Foguete não tem ré..."*
 
 Esta famosa e icônica frase ainda é muito utilizada na atualidade, mas você sabia que agora é possível fazer um foguete retornar à Terra com seus próprios motores?
 
-Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no espaço?
+#### Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no espaço?
 
 *Vamos para uma viagem ao mundo dos foguetes:*
 
-1. Primeiramente vamos entender um pouco sobre alguns dos maiores e mais tecnológicos foguetes já construídos!
+Primeiramente vamos entender um pouco sobre alguns dos maiores e mais tecnológicos foguetes já construídos!
 * Observe esta tabela e descubra um pouco mais sobre eles:
 
 | Foguete | Starship | Saturn V | Titan 1 *(míssil balístico)* |
@@ -78,10 +79,6 @@ O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transport
 
 ![STARSHIP](https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/starship-ift4-wdr.jpg?fit=1200%2C899&ssl=1)  
 *Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk, podendo ser considerado completamente reutilizável, projetado para viagens espaciais longas, como a outros planetas.*  
-
->*"Foguete não tem ré"*
-
-Esta famosa e icônica frase ainda é muito utilizada na atualidade, mas você sabia que com o Starship é possível retornar à Terra com seus próprios motores? E o melhor, reutilizando o foguete, o que é muito mais viável, econômico e sustentável!
 
 
 **Estágios do foguete:**  
