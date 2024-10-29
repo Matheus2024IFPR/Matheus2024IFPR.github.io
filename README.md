@@ -37,7 +37,8 @@ Além disso, possuindo 50m de altura, mesmo sendo mais amplamente utilizada no e
 
 ![SATURN V](https://cdn.firespring.com/images/1342c702-38be-4aaa-89db-5663555b7ff9.jpg)  
 *Este foguete é da NASA, o qual possibilitou, pela primeira vez na história da humanidade, a chegada do homem em solo lunar.*  
-**Papel da espaçonave na história:**
+**Papel da espaçonave na história:**  
+
 O foguete foi por muitas décadas considerado o maior já construído pelo homem, embora atualmente não ocupe mais esta posição, exercendo um inquestionável e importante papel na corrida espacial e na consolidação da NASA como a maior empresa do ramo aeroespacial até os dias de hoje, mesmo que na contemporaneidade possa competir com muitas outras empresas, como a SpaceX, de Elon Musk, e a Blue Origin, de Jeff Bezos *(ambas com um grande potencial para a implementação em massa do turismo espacial)*.
 **Estágios do foguete:**  
 O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transportou os astronautas Neil Armstrong, Michael Collins e Edwin Buzz Aldrin à Lua *e/ou* à sua órbita, são eles:
@@ -45,9 +46,11 @@ O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transport
   Este possui 5 motores (F-1), responsáveis pelo empuxo inicial do foguete, o qual o faz atingir 68km de altitude, outrossim, tem dois tipos de propelentes necessários à queima e propulsão *(oxigênio líquido e querosene refinado)* ambos líquidos.
   Quando em relação ao tamanho, o primeiro estágio detinha 42m dos 111m de altura total do foguete, exercendo sua função por pouco menos de 3 minutos.
 * **S-II *(segundo estágio)*:**
+  
   Impulsionando novamente o foguete após à separação do primeiro estágio, com seus aproximados 25m, o S-II era capaz de conduzir o foguete a uma altura de 185km na atmosfera, contando, de semelhante modo ao primeiro estágio, com 5 motores (J-2), embora com menor empuxo.
   Os propelentes deste estágio eram hidrogênio e oxigênio, ambos em seu estado líquido, exercendo seus papéis durante cerca de 6 minutos, fazendo com que o foguete pudesse finalmente atingir o espaço sideral.
 * **S-IVB *(terceiro estágio)*:**
+  
   A fração do foguete correspondente ao terceiro estágio é que o colocava na órbita terrestre, e posteriormente, o dirigia à Lua, realizando a *"injeção translunar"*, possuindo quase 18m de altura.
   Com relação à propulsão, o foguete contava com apenas um motor (J-2), abastecidos pelos mesmos propelentes do segundo estágio *(oxigênio e hidrogênio líquidos)*, e com um tempo de queima indefinido, visto que este não impulsionava o foguete de modo contínuo, para que não houvesse dificuldade *e/ou* desvio no trajeto à Lua. 
 
