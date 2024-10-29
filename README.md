@@ -1,6 +1,6 @@
 # **Foguetes**
 
-Olá, Mundo! Meu nome é Matheus Henrique de Almeida Rodrigues!  
+Olá, Mundo!
 
 >*"Foguete não tem ré..."*
 
