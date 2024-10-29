@@ -22,15 +22,19 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 ![STARSHIP](https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/starship-ift4-wdr.jpg?fit=1200%2C899&ssl=1)  
 *Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk, podendo ser considerado completamente reutilizável, projetado para viagens espaciais longas, como a outros planetas.*
 
-**Estágios do foguete:**
+**Estágios do foguete:**  
+
 * **Super Heavy *(primeiro estágio)*:**
+  
   Este é o maior estágio do foguete, possuindo cerca de 70m de altitude, abastecendo os 33 motores principais do foguete e possiblitando, de um modo inovador, sua propulsão.
 Quando falamos sobre combustíveis, é importante ressaltar que os propelentes utilizados pelo Starship são de natureza criogênica *(Oxigênio e metano são mantidos em temperaturas extremamente baixas para se tornarem líquidos, e assim se faz possível o armazenamento adequado)*.
   * **Inovação:** O primeiro estágio, além de reutiizável, tem e incrível capacidade de retornar à Terra, pousando no próprio local de lançamento, sendo aprovado em muitos testes de diferentes naturezas pela própria SpaceX.
 * **Starship *(segundo estágio)*:**
+  
   A nave em si é separada do estágio de lançamento *(Super Heavy)*, o qual participa apenas do momentos iniciais na ddecolagem do foguete, sendo o principal módulo, com 6 mototres, e responsável pela locomoção espacial.
 Além disso, possuindo 50m de altura, mesmo sendo mais amplamente utilizada no espaço sideral, a Starship é capaz de transportar carga útil entre dois pontos ao redor do planeta Terra, sem necessariamente viajar à missões interplanetárias, mostrando sua ampla e eficaz capacidade de utilização e reutilização.
 * **Payload:**
+  
   A espaçonave é capaz de suportar até 150 toneladas métricas totalmente reutizável como afirma a própria SpaceX, sendo capaz de ultrapassar em até 100 toneladas este limite quando em relação a cargas descartáveis.
 
 ## Saturn V
@@ -43,6 +47,7 @@ O foguete foi por muitas décadas considerado o maior já construído pelo homem
 **Estágios do foguete:**  
 O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transportou os astronautas Neil Armstrong, Michael Collins e Edwin Buzz Aldrin à Lua *e/ou* à sua órbita, são eles:
 * **S-IC *(primeiro estágio)*:**
+  
   Este possui 5 motores (F-1), responsáveis pelo empuxo inicial do foguete, o qual o faz atingir 68km de altitude, outrossim, tem dois tipos de propelentes necessários à queima e propulsão *(oxigênio líquido e querosene refinado)* ambos líquidos.
   Quando em relação ao tamanho, o primeiro estágio detinha 42m dos 111m de altura total do foguete, exercendo sua função por pouco menos de 3 minutos.
 * **S-II *(segundo estágio)*:**
@@ -61,12 +66,16 @@ O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transport
 * **Introdução:**
   Embora seja o primeiro míssil intercontinental da história, o Titan I também possui estágios, sendo responsáveis por diferentes momentos do voo e lançamento do mesmo.
 * **Primeiro estágio:**
+  
   O estágio participava desde o momento de lançamento do míssil, até o momento no qual o mesmo alcançava a alta atmosfera terrestre, possibilitando, deste modo, uma viagem intercontinental.
   Este estágio contava com apenas 2 motores (Aerojet LR87), e acelerava-o consideravelmente a uma determinada velocidade.
   Do modo semelhante ao primeiro estágio do foguete Saturn V, os motores neste estágio eram abastecidos por querosene refinado e oxigênio líquido.
 * **Segundo estágio:**
+  
   Responsável por atingir a adequada altitude para uma viagem intercontinental, o segundo estágio do Titan I acelerava-o mais ainda, por meio de um único motor (Aerojet LR91), o qual fornecia o empuxo por meio da queima dos mesmos combustíveis presentes no primeiro estágio.
 * **Explosão?**
+  
   O míssil nunca foi realmente utilizado em algum momento de combate, porém, carregava uma ogiva nuclear, a qual nunca foi detonada fora de ambientes controlados, mas somente analisava e verificava o funcionamento do míssil.
 * **Curiosidade:**
+  
   Embora o míssil tenha sido fabricado próximo à década de 60, é importante ressaltar que foram feitas melhorias no mesmo, originando, de igual modo, o Titan II, assim como ocorrem aperfeiçoamentos em espaçonaves nos dias atuais, as quais são dura e frequentemente testadas para atingir novos alvos, os quais, por muitas vezes, podem parecer impossíveis.
