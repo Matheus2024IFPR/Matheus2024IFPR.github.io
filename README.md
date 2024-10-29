@@ -17,6 +17,8 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 | **Primeiro lançamento** | 2023 | 1969 | 1959 |
 | **Altura total** | ≈ 120m | ≈ 111m | ≈ 31m |
 
+Vamos nos aprofundar em cada um deles!
+
 ## Titan 1
 
 ![TITAN 1l.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Titan_1_ICBM.jpg/600px-Titan_1_ICBM.jpg)  
