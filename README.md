@@ -25,7 +25,8 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 ## Titan 1
 
 ![TITAN 1l.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Titan_1_ICBM.jpg/600px-Titan_1_ICBM.jpg)  
-*O primeiro foguete (míssil) a atingir os incríveis 5.5km de altitude, em viagem intercontinental, fabricado pela empresa norte-americana "Glenn L. Martin Company".*
+*O primeiro foguete (míssil) a atingir os incríveis 5.5km de altitude, em viagem intercontinental,  
+fabricado pela empresa norte-americana "Glenn L. Martin Company".*
 * **Introdução:**
   Embora seja o primeiro míssil intercontinental da história, o Titan I também possui estágios, sendo responsáveis por diferentes momentos do voo e lançamento do mesmo.
   
@@ -51,7 +52,8 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 ## Saturn V
 
 ![SATURN V](https://cdn.firespring.com/images/1342c702-38be-4aaa-89db-5663555b7ff9.jpg)  
-*Este foguete é da NASA, o qual possibilitou, pela primeira vez na história da humanidade, a chegada do homem em solo lunar.*  
+*Este foguete é da NASA, o qual possibilitou, pela primeira vez na história da humanidade,  
+a chegada do homem em solo lunar.*  
 
 **Papel da espaçonave na história:**  
 
