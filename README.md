@@ -43,7 +43,7 @@ fabricado pela empresa norte-americana "Glenn L. Martin Company".*
   
 **Explosão?**
   
-  O míssil nunca foi realmente utilizado em algum momento de combate, porém, carregava uma ogiva nuclear, a qual nunca foi detonada fora de ambientes controlados, mas somente analisava e verificava o funcionamento do míssil.  
+  O míssil nunca foi realmente utilizado em algum momento de combate, porém, carregava uma ogiva nuclear, a qual nunca foi detonada fora de ambientes controlados, mas era somente utilizada para a análise e verificação de funcionamento do míssil.  
   
 **Curiosidade:**
   
@@ -77,7 +77,11 @@ O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transport
 ## Starship
 
 ![STARSHIP](https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/starship-ift4-wdr.jpg?fit=1200%2C899&ssl=1)  
-*Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk, podendo ser considerado completamente reutilizável, projetado para viagens espaciais longas, como a outros planetas.*
+*Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk, podendo ser considerado completamente reutilizável, projetado para viagens espaciais longas, como a outros planetas.*  
+
+>*"Foguete não tem ré"*
+Esta famosa e icônica frase ainda é muito utilizada na atualidade, mas você sabia que com o Starship é possível retornar à Terra com seus próprios motores? E o melhor, reutilizando o foguete, o que é muito mais viável, econômico e sustentável!
+
 
 **Estágios do foguete:**  
 
