@@ -39,10 +39,10 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 * **Segundo estágio:**
   
   Responsável por atingir a adequada altitude para uma viagem intercontinental, o segundo estágio do Titan I acelerava-o mais ainda, por meio de um único motor (Aerojet LR91), o qual fornecia o empuxo por meio da queima dos mesmos combustíveis presentes no primeiro estágio.
-* **Explosão?**
+**Explosão?**
   
   O míssil nunca foi realmente utilizado em algum momento de combate, porém, carregava uma ogiva nuclear, a qual nunca foi detonada fora de ambientes controlados, mas somente analisava e verificava o funcionamento do míssil.
-* **Curiosidade:**
+**Curiosidade:**
   
   Embora o míssil tenha sido fabricado próximo à década de 60, é importante ressaltar que foram feitas melhorias no mesmo, originando, de igual modo, o Titan II, assim como ocorrem aperfeiçoamentos em espaçonaves nos dias atuais, as quais são dura e frequentemente testadas para atingir novos alvos, os quais, por muitas vezes, podem parecer impossíveis.
 
