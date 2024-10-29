@@ -6,7 +6,7 @@ Olá, Mundo!
 >*"Foguete não tem ré..."*
 
 Esta famosa e icônica frase ainda é muito utilizada na atualidade, mas você sabia que agora é possível fazer um foguete retornar à Terra com seus próprios motores?  
-[Quer pular para lá?](#Starship)
+[Quer pular para lá?](##Starship)
 
 #### Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no espaço?
 
