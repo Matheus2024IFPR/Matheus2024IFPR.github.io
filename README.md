@@ -92,7 +92,9 @@ Além disso, possuindo 50m de altura, mesmo sendo mais amplamente utilizada no e
   
   A espaçonave é capaz de suportar até 150 toneladas métricas totalmente reutizável como afirma a própria SpaceX, sendo capaz de ultrapassar em até 100 toneladas este limite quando em relação a cargas descartáveis.
 
-*Gostou do conteúdo? Quer saber mais sobre o mundo dos foguetes?*
+  
+
+*E aí, gostou do conteúdo? Quer saber mais sobre o mundo dos foguetes?*
 Aqui estão alguns vídeos que podem lhe interessar, e fazer com que você saiba muito mais sobre os foguetes!  
 
 [![Engenharia Detalhada](![image](https://github.com/user-attachments/assets/b0aa73d0-25f2-42f2-a10b-517a04eaab20)
