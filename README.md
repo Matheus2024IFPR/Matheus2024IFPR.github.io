@@ -49,11 +49,21 @@ O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transport
   Os propelentes deste estágio eram hidrogênio e oxigênio, ambos em seu estado líquido, exercendo seus papéis durante cerca de 6 minutos, fazendo com que o foguete pudesse finalmente atingir o espaço sideral.
 * **S-IVB *(terceiro estágio)*:**
   A fração do foguete correspondente ao terceiro estágio é que o colocava na órbita terrestre, e posteriormente, o dirigia à Lua, realizando a *"injeção translunar"*, possuindo quase 18m de altura.
-  Com relação a comburentes, estes eram os mesmos do segundo estágio *(oxigênio e hidrogênio líquidos)*, com um tempo de queima indefinido, visto que não impulsionava o foguete de modo contínuo, para que não houvesse dificuldade no trajeto à Lua. 
+  Com relação à propulsão, o foguete contava com apenas um motor (J-2), abastecidos pelos mesmos propelentes do segundo estágio *(oxigênio e hidrogênio líquidos)*, e com um tempo de queima indefinido, visto que este não impulsionava o foguete de modo contínuo, para que não houvesse dificuldade *e/ou* desvio no trajeto à Lua. 
 
 ## Titan 1
 
 ![TITAN 1l.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Titan_1_ICBM.jpg/600px-Titan_1_ICBM.jpg)  
-O primeiro foguete (*míssil*) a atingir os incríveis 5.5km de altitude, em viagem intercontinental.
-
-
+*O primeiro foguete (míssil) a atingir os incríveis 5.5km de altitude, em viagem intercontinental, fabricado pela empresa norte-americana "Glenn L. Martin Company".*
+* **Introdução:**
+  Embora seja o primeiro míssil intercontinental da história, o Titan I também possui estágios, sendo responsáveis por diferentes momentos do voo e lançamento do mesmo.
+* **Primeiro estágio:**
+  O estágio participava desde o momento de lançamento do míssil, até o momento no qual o mesmo alcançava a alta atmosfera terrestre, possibilitando, deste modo, uma viagem intercontinental.
+  Este estágio contava com apenas 2 motores (Aerojet LR87), e acelerava-o consideravelmente a uma determinada velocidade.
+  Do modo semelhante ao primeiro estágio do foguete Saturn V, os motores neste estágio eram abastecidos por querosene refinado e oxigênio líquido.
+* **Segundo estágio:**
+  Responsável por atingir a adequada altitude para uma viagem intercontinental, o segundo estágio do Titan I acelerava-o mais ainda, por meio de um único motor (Aerojet LR91), o qual fornecia o empuxo por meio da queima dos mesmos combustíveis presentes no primeiro estágio.
+* **Explosão?**
+  O míssil nunca foi realmente utilizado em algum momento de combate, porém, carregava uma ogiva nuclear, a qual nunca foi detonada fora de ambientes controlados, mas somente analisava e verificava o funcionamento do míssil.
+* **Curiosidade:**
+  Embora o míssil tenha sido fabricado próximo à década de 60, é importante ressaltar que foram feitas melhorias no mesmo, originando, de igual modo, o Titan II, assim como ocorrem aperfeiçoamentos em espaçonaves nos dias atuais, as quais são dura e frequentemente testadas para atingir novos alvos, os quais, por muitas vezes, podem parecer impossíveis.
