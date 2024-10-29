@@ -21,7 +21,7 @@ Primeiramente vamos entender um pouco sobre alguns dos maiores e mais tecnológi
 
 
 
-### *Vamos nos aprofundar um pouco mais em cada um deles!*  
+### *Agora vamos nos aprofundar um pouco mais em cada um deles!*  
 
 
 ## Titan 1
