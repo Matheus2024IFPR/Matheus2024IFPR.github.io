@@ -101,9 +101,11 @@ Aqui estão alguns vídeos que podem lhe interessar, e fazer com que você saiba
 
 *Canal: Engenharia Detalhada*  
 
+
 [![Manual do Mundo](https://github.com/user-attachments/assets/df7c9ab8-788a-45d2-a5cd-503e1edab6a2)](https://youtu.be/mhgtGOcsUqM)  
 
-*Canal: Manual do Mundo*  
+*Canal: Manual do Mundo* 
+
 
 [![Integrando Conhecimento](https://github.com/user-attachments/assets/30e3c23b-cf0c-4237-a111-85ee25e50021)](https://youtu.be/TWRUsaOeNig)  
 
