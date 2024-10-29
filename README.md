@@ -80,26 +80,6 @@ O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transport
   
   Embora o míssil tenha sido fabricado próximo à década de 60, é importante ressaltar que foram feitas melhorias no mesmo, originando, de igual modo, o Titan II, assim como ocorrem aperfeiçoamentos em espaçonaves nos dias atuais, as quais são dura e frequentemente testadas para atingir novos alvos, os quais, por muitas vezes, podem parecer impossíveis.
 
-## Starship
-
-![STARSHIP](https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/starship-ift4-wdr.jpg?fit=1200%2C899&ssl=1)  
-*Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk, podendo ser considerado completamente reutilizável, projetado para viagens espaciais longas, como a outros planetas.*
-
-**Estágios do foguete:**  
-
-* **Super Heavy *(primeiro estágio)*:**
-  
-  Este é o maior estágio do foguete, possuindo cerca de 70m de altitude, abastecendo os 33 motores principais do foguete e possiblitando, de um modo inovador, sua propulsão.
-Quando falamos sobre combustíveis, é importante ressaltar que os propelentes utilizados pelo Starship são de natureza criogênica *(Oxigênio e metano são mantidos em temperaturas extremamente baixas para se tornarem líquidos, e assim se faz possível o armazenamento adequado)*.
-  * **Inovação:** O primeiro estágio, além de reutiizável, tem e incrível capacidade de retornar à Terra, pousando no próprio local de lançamento, sendo aprovado em muitos testes de diferentes naturezas pela própria SpaceX.
-* **Starship *(segundo estágio)*:**
-  
-  A nave em si é separada do estágio de lançamento *(Super Heavy)*, o qual participa apenas do momentos iniciais na ddecolagem do foguete, sendo o principal módulo, com 6 mototres, e responsável pela locomoção espacial.
-Além disso, possuindo 50m de altura, mesmo sendo mais amplamente utilizada no espaço sideral, a Starship é capaz de transportar carga útil entre dois pontos ao redor do planeta Terra, sem necessariamente viajar à missões interplanetárias, mostrando sua ampla e eficaz capacidade de utilização e reutilização.
-* **Payload:**
-  
-  A espaçonave é capaz de suportar até 150 toneladas métricas totalmente reutizável como afirma a própria SpaceX, sendo capaz de ultrapassar em até 100 toneladas este limite quando em relação a cargas descartáveis.
-
 ## Saturn V
 
 ![SATURN V](https://cdn.firespring.com/images/1342c702-38be-4aaa-89db-5663555b7ff9.jpg)  
@@ -122,3 +102,22 @@ O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transport
   A fração do foguete correspondente ao terceiro estágio é que o colocava na órbita terrestre, e posteriormente, o dirigia à Lua, realizando a *"injeção translunar"*, possuindo quase 18m de altura.
   Com relação à propulsão, o foguete contava com apenas um motor (J-2), abastecidos pelos mesmos propelentes do segundo estágio *(oxigênio e hidrogênio líquidos)*, e com um tempo de queima indefinido, visto que este não impulsionava o foguete de modo contínuo, para que não houvesse dificuldade *e/ou* desvio no trajeto à Lua. 
 
+## Starship
+
+![STARSHIP](https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/starship-ift4-wdr.jpg?fit=1200%2C899&ssl=1)  
+*Este foguete é o Starship, produzido e lançado pela empresa SpaceX, de Elon Musk, podendo ser considerado completamente reutilizável, projetado para viagens espaciais longas, como a outros planetas.*
+
+**Estágios do foguete:**  
+
+* **Super Heavy *(primeiro estágio)*:**
+  
+  Este é o maior estágio do foguete, possuindo cerca de 70m de altitude, abastecendo os 33 motores principais do foguete e possiblitando, de um modo inovador, sua propulsão.
+Quando falamos sobre combustíveis, é importante ressaltar que os propelentes utilizados pelo Starship são de natureza criogênica *(Oxigênio e metano são mantidos em temperaturas extremamente baixas para se tornarem líquidos, e assim se faz possível o armazenamento adequado)*.
+  * **Inovação:** O primeiro estágio, além de reutiizável, tem e incrível capacidade de retornar à Terra, pousando no próprio local de lançamento, sendo aprovado em muitos testes de diferentes naturezas pela própria SpaceX.
+* **Starship *(segundo estágio)*:**
+  
+  A nave em si é separada do estágio de lançamento *(Super Heavy)*, o qual participa apenas do momentos iniciais na ddecolagem do foguete, sendo o principal módulo, com 6 mototres, e responsável pela locomoção espacial.
+Além disso, possuindo 50m de altura, mesmo sendo mais amplamente utilizada no espaço sideral, a Starship é capaz de transportar carga útil entre dois pontos ao redor do planeta Terra, sem necessariamente viajar à missões interplanetárias, mostrando sua ampla e eficaz capacidade de utilização e reutilização.
+* **Payload:**
+  
+  A espaçonave é capaz de suportar até 150 toneladas métricas totalmente reutizável como afirma a própria SpaceX, sendo capaz de ultrapassar em até 100 toneladas este limite quando em relação a cargas descartáveis.
