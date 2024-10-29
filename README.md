@@ -28,6 +28,9 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 *O primeiro foguete (míssil) a atingir os incríveis 5.5km de altitude, em viagem intercontinental, fabricado pela empresa norte-americana "Glenn L. Martin Company".*
 * **Introdução:**
   Embora seja o primeiro míssil intercontinental da história, o Titan I também possui estágios, sendo responsáveis por diferentes momentos do voo e lançamento do mesmo.
+  
+**Estágios do foguete:**
+  
 * **Primeiro estágio:**
   
   O estágio participava desde o momento de lançamento do míssil, até o momento no qual o mesmo alcançava a alta atmosfera terrestre, possibilitando, deste modo, uma viagem intercontinental.
@@ -49,7 +52,8 @@ Mas e então, está pronto para aprender mais sobre engenharia e tecnologia no e
 *Este foguete é da NASA, o qual possibilitou, pela primeira vez na história da humanidade, a chegada do homem em solo lunar.*  
 **Papel da espaçonave na história:**  
 
-O foguete foi por muitas décadas considerado o maior já construído pelo homem, embora atualmente não ocupe mais esta posição, exercendo um inquestionável e importante papel na corrida espacial e na consolidação da NASA como a maior empresa do ramo aeroespacial até os dias de hoje, mesmo que na contemporaneidade possa competir com muitas outras empresas, como a SpaceX, de Elon Musk, e a Blue Origin, de Jeff Bezos *(ambas com um grande potencial para a implementação em massa do turismo espacial)*.
+O foguete foi por muitas décadas considerado o maior já construído pelo homem, embora atualmente não ocupe mais esta posição, exercendo um inquestionável e importante papel na corrida espacial e na consolidação da NASA como a maior empresa do ramo aeroespacial até os dias de hoje, mesmo que na contemporaneidade possa competir com muitas outras empresas, como a SpaceX, de Elon Musk, e a Blue Origin, de Jeff Bezos *(ambas com um grande potencial para a implementação em massa do turismo espacial)*.  
+
 **Estágios do foguete:**  
 O Saturn V possui 3 estágios, não considerando a nave Apollo, a qual transportou os astronautas Neil Armstrong, Michael Collins e Edwin Buzz Aldrin à Lua *e/ou* à sua órbita, são eles:
 * **S-IC *(primeiro estágio)*:**
